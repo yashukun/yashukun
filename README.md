@@ -4,9 +4,15 @@
 
 </div>
 
+**Freelance platform engineer & backend developer**, available for contract work.
+
 I build backend services in **Python** and **TypeScript**, and I stay with them after the merge —
 containerising them, shipping them to **AWS**, and wiring up the **Grafana / Prometheus / Loki / OpenTelemetry**
 stack so that when something breaks at 3am, the dashboard says *where* before anyone has to guess.
+
+Currently taking on work in: backend APIs, containerisation & deployment, CI/CD pipelines, and
+observability setups for teams flying blind in production.
+[**Hire me on Upwork →**](https://www.upwork.com/freelancers/~01c362d0288b459345)
 
 <img src="divider.svg" width="100%" alt="" />
 
@@ -61,8 +67,8 @@ certified:     aws-cloud-practitioner   # → verify below
   <img src="https://raw.githubusercontent.com/yashukun/yashukun/output/snake.svg" alt="a snake eating my contribution graph" width="100%" />
 </picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashukun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashukun&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashukun&show_icons=true&cache_seconds=86400&cache_seconds=86400&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="github stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashukun&layout=compact&cache_seconds=86400&cache_seconds=86400&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="top languages" />
 
 </div>
 
@@ -72,8 +78,10 @@ certified:     aws-cloud-practitioner   # → verify below
 
 **▸ PING ME**
 
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c362d0288b459345)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashukun/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yashagarwal.cs@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-yashu31-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 ```
 ░░░░░░░░░░░░░░░  P R E S S   S T A R T  ░░░░░░░░░░░░░░░
