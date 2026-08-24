@@ -66,7 +66,7 @@ certified:     aws-cloud-practitioner   # → verify below
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <div align="center">
 
