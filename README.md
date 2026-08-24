@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Yash Agarwal — Platform Engineer / Fullstack Python Dev. A pixel terminal, a Grafana monitor breaching its SLO line, a blinking server rack, and a green snake crawling along the bottom." />
+<img src="hero.svg" width="100%" alt="Yash Agarwal — Platform Engineer / Fullstack Python Dev. A pixel terminal, a Grafana monitor breaching its SLO line, a blinking server rack, and a green snake crawling along the bottom." />
 
 </div>
 
@@ -8,11 +8,11 @@ I build backend services in **Python** and **TypeScript**, and I stay with them 
 containerising them, shipping them to **AWS**, and wiring up the **Grafana / Prometheus / Loki / OpenTelemetry**
 stack so that when something breaks at 3am, the dashboard says *where* before anyone has to guess.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ▸ How my code reaches prod
 
-<img src="./assets/pipeline.svg" width="100%" alt="Animated pipeline: write, test and build, containerise, deploy, observe — with alerts and runbooks feeding back into the code." />
+<img src="pipeline.svg" width="100%" alt="Animated pipeline: write, test and build, containerise, deploy, observe — with alerts and runbooks feeding back into the code." />
 
 Every stage above is something I've built for real, not aspirationally:
 
@@ -24,7 +24,7 @@ Every stage above is something I've built for real, not aspirationally:
 | **Deploy** | AWS Lightsail behind a TLS reverse proxy, provisioned by one **idempotent script** — the same command sets up a fresh box or updates a running one. Day-2 ops written down, not memorised. |
 | **Observe** | Prometheus alerts on user-visible symptoms, Loki logs correlated to traces by ID, OpenTelemetry + Jaeger across services, Grafana dashboards split by audience. Incidents end as runbooks. |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ▸ Proof of work
 
@@ -34,7 +34,7 @@ Every stage above is something I've built for real, not aspirationally:
 | **[FixED](https://github.com/yashukun/FixED)** | RAG microservices platform: hybrid vector + lexical retrieval over textbooks, async ingestion, exam generation, SSE streaming. | Multi-service architecture under one Compose file — FastAPI, Qdrant, Celery, Redis, MinIO — with **token/cost observability** built in. |
 | **[Django-Docker](https://github.com/yashukun/Django-Docker)** | Django, containerised the boring-good way. | The fundamentals: a clean, reproducible path from `manage.py` to a running container. |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ▸ Stack
 
@@ -49,7 +49,7 @@ certified:     aws-cloud-practitioner   # → verify below
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/2c765ea7-224a-43df-ae7d-c51bcda7f821/public_url)
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## ▸ The snake also eats my commits
 
